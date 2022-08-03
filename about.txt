@@ -1,0 +1,1 @@
+arquivo teste para sincronização com o repositorio local
